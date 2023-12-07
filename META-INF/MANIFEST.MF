@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Locker
+Synchronizable: false
+ArtifactVersion: 20230821.114325
+Type: Product
+Product-Creation-Date: 2023-Aug-21 00:00:00
+Version: 20230821.114325
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Locker App
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: Locker
+Archive-Type: PegaArchive
+Export-Date: 2023-Aug-21 21:17:10
+Pega-Codeset-Name: Customer
+Instance-Count: 4373
+
+Name: FileMetadata
+
