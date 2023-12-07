@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="Locker 20230821.114325" description="" >
+	<parfile name="LockerManagement_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="LockerManagement_schema.jar" order="2"/>
+	<parfile name="LockerManagement_rules.jar" order="3"/>
+</application>
